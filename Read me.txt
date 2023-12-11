@@ -1,0 +1,12 @@
+Problem Statement:
+You are the database developer of an Company Employees details. You are responsible for
+managing the company database. You have perform queries to find details of employee on 
+various features employee details, location, department, job profile etc. Perform SQL 
+queries to get the key insights of a customer.
+
+Dataset:
+The 3 key datasets for this case study are:
+1. Location
+2. Department
+3. Job
+4. Employee
